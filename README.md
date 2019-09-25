@@ -8,6 +8,7 @@ Canal | Descripción
 [CodelyTV](http://youtube.com/CodelyTV) | Entrevistamos a desarrolladores conociendo más a fondo personas y empresas del sector tecnológico. Además, aprenderás sobre buenas prácticas de programación y arquitectura de software con los screencasts de desarrollo.
 [Fighting Kitten](https://www.youtube.com/channel/UCi5_PsajcI35NNWriUo_17Q) | Hardware, software y cosillas que se me ocurran
 [MoureDev](https://www.youtube.com/c/MouredevApps) | Si te interesa la PROGRAMACIÓN y quieres aprender programar, conocer los fundamentos de programación y crear apps para iOS (con Swift y Xcode) y Android (con Kotlin y Android Studio) espero poder ayudarte. TODAS las SEMANAS comparto nuevos tutoriales de programación, creando así un CURSO de programación cada día más grande. Hola Hackermen!👋 Mi nombre es Brais Moure, soy desarrollador de software profesional desde hace más de 10 años. Actualmente trabajo como freelance creando apps para iOS y Android. ¿Te unes a nuestra comunidad? Bienvenid@ a MoureDev!
+[NorthemQuality](https://www.youtube.com/channel/UCwZLYUjn3gVV83Q0rontKaw) | Una comunidad Online de testing e ingeniería!. Como comunidad, queremos intentar impulsar el crecimiento del testing y la ingeniería de la calidad a través de diferentes iniciativas online. Podéis ver y proponer actividades desde nuestro repositorio de GitHub. Las actividades se emitirán principalmente en streaming en nuestro canal de YouTube. Mediante Twitter y nuestro canal de Slack os iremos informando de todas las actividades! 
 
 
 ## Cómo colaborar
