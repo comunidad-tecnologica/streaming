@@ -22,6 +22,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dcarral",
+      "name": "Daniel Carral",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/1498567?v=4",
+      "profile": "https://dcarral.org",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
