@@ -1,5 +1,5 @@
 # Streaming
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 Lista de canales creados por miembros de la comunidad tecnológica española con el fin de incrementar su visibilidad y apoyar sus proyectos.
 
@@ -25,8 +25,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4" width="100px;" alt="nyan dev"/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=mericp" title="Documentation">📖</a></td>
     <td align="center"><a href="http://www.linkedin.com/in/franciscomorenosanz"><img src="https://avatars2.githubusercontent.com/u/2271130?v=4" width="100px;" alt="Francisco Moreno"/><br /><sub><b>Francisco Moreno</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=morvader" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4" width="100px;" alt="nyan dev"/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=mericp" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dcarral.org"><img src="https://avatars1.githubusercontent.com/u/1498567?v=4" width="100px;" alt="Daniel Carral"/><br /><sub><b>Daniel Carral</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=dcarral" title="Documentation">📖</a></td>
   </tr>
 </table>
 
