@@ -23,14 +23,19 @@ Seguro que nos hemos dejado muchos en el tintero. No dudes en contribuir vía [_
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://www.linkedin.com/in/franciscomorenosanz"><img src="https://avatars2.githubusercontent.com/u/2271130?v=4" width="100px;" alt="Francisco Moreno"/><br /><sub><b>Francisco Moreno</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=morvader" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4" width="100px;" alt="nyan dev"/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=mericp" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://dcarral.org"><img src="https://avatars1.githubusercontent.com/u/1498567?v=4" width="100px;" alt="Daniel Carral"/><br /><sub><b>Daniel Carral</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=dcarral" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://www.linkedin.com/in/franciscomorenosanz"><img src="https://avatars2.githubusercontent.com/u/2271130?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Francisco Moreno</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=morvader" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://fightingkitten.webcindario.com/"><img src="https://avatars3.githubusercontent.com/u/5872813?v=4?s=100" width="100px;" alt=""/><br /><sub><b>nyan dev</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=mericp" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://dcarral.org"><img src="https://avatars1.githubusercontent.com/u/1498567?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daniel Carral</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=dcarral" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://yodralopez.dev"><img src="https://avatars.githubusercontent.com/u/7188403?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yodra López</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/streaming/commits?author=yodra" title="Documentation">📖</a></td>
   </tr>
 </table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
