@@ -31,11 +31,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "yodra",
+      "name": "Yodra López",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7188403?v=4",
+      "profile": "http://yodralopez.dev",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "streaming",
   "projectOwner": "comunidad-tecnologica",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
